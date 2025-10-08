@@ -1,4 +1,10 @@
-! Popular international betting and gambling websites:
+! Title: zero9vn - Blocklist
+! Issue tracker: https://github.com/vinhnguyen2665/blocklist
+! Homepage: https://github.com/vinhnguyen2665/blocklist
+! Description: Blocklist for betting and gambling
+
+! Popular betting and gambling websites:
+
 ||bet365.com^
 ||888casino.com^
 ||bovada.lv^
@@ -19,7 +25,6 @@
 ||betvictor.com^
 ||royalvegascasino.com^
 
-! Betting and gambling sites in Asia (especially popular in Vietnam, China, Thailand, etc.):
 ||vn88.com^
 ||fun88.com^
 ||188bet.com^
