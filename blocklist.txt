@@ -1,3 +1,4 @@
+! Popular international betting and gambling websites:
 ||bet365.com^
 ||888casino.com^
 ||bovada.lv^
@@ -17,6 +18,8 @@
 ||livescorebet.com^
 ||betvictor.com^
 ||royalvegascasino.com^
+
+! Betting and gambling sites in Asia (especially popular in Vietnam, China, Thailand, etc.):
 ||vn88.com^
 ||fun88.com^
 ||188bet.com^
@@ -41,3 +44,11 @@
 ||betfair.com^
 ||starsgroup.com^
 ||blackjack21.com^
+||vu88.net^
+||lu88.com^
+||789club.sx^
+||man88.vip^
+||xibet.com^
+
+!advertisement
+||finallygotthexds.site^
